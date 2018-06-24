@@ -1,4 +1,4 @@
-# gradientbackground.github.io
+# https://yaningyu1992.github.io/gradientBackground/.
 Gradient Background Generator Website
 Features:
 1. Change background two gradient colors according to the color selectors.
